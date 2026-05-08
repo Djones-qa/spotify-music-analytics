@@ -2,7 +2,7 @@
 
 An interactive Plotly Dash dashboard for exploring synthetic Spotify-style streaming data across genres, moods, audio features, and platforms — covering 2018–2025.
 
-![CI](https://github.com/YOUR_USERNAME/spotify-music-analytics/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Djones-qa/spotify-music-analytics/actions/workflows/ci.yml/badge.svg)
 
 ## Features
 
